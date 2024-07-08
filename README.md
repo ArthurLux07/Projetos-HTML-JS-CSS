@@ -1,4 +1,4 @@
-# Projetos-HTML+JS+CSS
+# Projetos-HTML+JS+CSS<br><br>
 
-##Esses são alguns de meus projetos usando Html. JavaScript e CSS.
-##A maioria dos projetos foram feitos em aula em conjunto ao professor
+<h2>🦁Esses são alguns de meus projetos usando Html. JavaScript e CSS.🐍</h2>
+
